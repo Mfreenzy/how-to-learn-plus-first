@@ -1,0 +1,10 @@
+.kaufman-table {
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:stretch;
+    margin: 80px auto 0;
+    row-gap:80px;
+    width: 1100px;
+  }

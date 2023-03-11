@@ -1,0 +1,5 @@
+.khan__book-cointainer {
+    display: flex;
+    flex-direction: row;
+    column-gap: 48px;
+}

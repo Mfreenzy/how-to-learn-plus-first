@@ -1,0 +1,30 @@
+@keyframes square-pic-rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+    
+}
+
+.square-pic-rotate {
+    animation: square-pic-rotate 20s ease-in-out infinite;
+}
+
+
+@keyframes kaufman-triangle-rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg)
+    }
+    
+}
+
+.kaufman-triangle-rotate {
+    animation: kaufman-triangle-rotate 20s ease-in-out infinite;
+}
